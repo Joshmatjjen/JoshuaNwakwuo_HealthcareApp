@@ -10,6 +10,9 @@
 
 ```bash
 $ npm install
+
+# To install both frontend the backend server
+$ npm install all
 ```
 
 ## Running the app
@@ -36,4 +39,11 @@ $ npm run test
 
 # test coverage
 $ npm run test:cov
+```
+
+```bash
+# Host
+$ FrontEnd run in: http://localhost:3000/
+$ BackEnd run in: http://localhost:3001/
+
 ```
