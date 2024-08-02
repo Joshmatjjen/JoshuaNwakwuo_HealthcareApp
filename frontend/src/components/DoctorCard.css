@@ -1,0 +1,36 @@
+.doctor-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  margin: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.doctor-image {
+  width: 200px;
+  height: 200px;
+}
+
+.doctor-info {
+  padding: 16px;
+}
+
+.doctor-name {
+  margin: 0 0 10px;
+  font-size: 1.5em;
+  color: #333;
+}
+
+.doctor-specialty {
+  margin: 0 0 8px;
+  font-size: 1.2em;
+  color: #555;
+}
+
+.doctor-description {
+  margin: 0;
+  font-size: 1em;
+  color: #777;
+}

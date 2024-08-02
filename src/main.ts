@@ -11,6 +11,6 @@ async function bootstrap() {
   });
   const doctorService = app.get(DoctorService);
   await doctorService.createSampleDoctors();
-  await app.listen(3000);
+  await app.listen(3001);
 }
 bootstrap();
