@@ -9,10 +9,11 @@ HEALTH APP PROJECT WITH REACT, TYPESCRIPT AND NESTJS FOR BACKEND SERVER.
 ## Installation
 
 ```bash
+# To setup backend server
 $ npm install
 
-# To install both frontend the backend server
-$ npm install all
+# To setup frontend
+$ cd frontend && npm install && cd..
 ```
 
 ## Running the app
@@ -22,7 +23,10 @@ $ npm install all
 $ npm run start
 
 # To start the frontend server
-$ npm run start:frontend
+$ npm run start frontend
+
+# To start both frontend and backend
+$ npm run start:all
 
 # watch mode
 $ npm run start:dev
