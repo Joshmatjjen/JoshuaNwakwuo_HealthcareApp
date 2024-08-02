@@ -4,7 +4,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+HEALTH APP PROJECT WITH REACT, TYPESCRIPT AND NESTJS FOR BACKEND SERVER.
 
 ## Installation
 
