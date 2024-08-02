@@ -6,7 +6,7 @@ async function bootstrap() {
   const app = await NestFactory.createApplicationContext(AppModule);
   const doctorService = app.get(DoctorService);
   // Save sample doctors
-  console.log('Sample data added');
+  // console.log('Sample data added');
   await app.close();
 }
 

@@ -21,7 +21,7 @@ export class AppointmentService {
     const doctor = await this.doctorRepository.findOne({
       where: { id: doctorId },
     });
-    console.log('Date', date, '+', doctorId);
+    // console.log('Date', date, '+', doctorId);
 
     if (!date) {
       throw new BadRequestException('Appointment Date not found');
@@ -29,7 +29,7 @@ export class AppointmentService {
     if (!doctor) {
       throw new BadRequestException('Doctor not found');
     }
-    if (!patientName || patientName === "") {
+    if (!patientName || patientName === '') {
       throw new BadRequestException('Patient name not found');
     }
 
