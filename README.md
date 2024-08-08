@@ -8,7 +8,7 @@ HEALTH APP PROJECT WITH REACT, TYPESCRIPT AND NESTJS FOR BACKEND SERVER.
 
 ## Video Preview
 
-[![Video Preview]([https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg](https://drive.google.com/file/d/1sydAMt2do6EH6HHtb4OncF1IgiP-yIgd/view?usp=sharing))]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://drive.google.com/file/d/1sydAMt2do6EH6HHtb4OncF1IgiP-yIgd/view?usp=sharing))
+[![Video Thumbnail](https://drive.google.com/uc?id=1qGG2k6xvyN6nrisOuVDiaWffYLl4VCWP)](https://drive.google.com/file/d/1sydAMt2do6EH6HHtb4OncF1IgiP-yIgd/view?usp=sharing)
 
 ## Installation
 
